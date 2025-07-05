@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Menna Mohy
+# 👋 Hi, I'm Menna Allah Mohy ELDin
 
 🎓 A passionate Software Engineering student with a strong interest in **Data Science**, **Web Development**, and building smart and helpful applications.
 
