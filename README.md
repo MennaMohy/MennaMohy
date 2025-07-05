@@ -29,7 +29,7 @@ Git | GitHub | VS Code
   A turn-based math puzzle game with smart logic implementation.
 
 - 📊 [InvestWise App](https://github.com/MennaMohy/InvestWise-App) *(Java)*  
-  A personal finance and investment advisor tool with clean UI.
+  A personal finance and investment advisor tool.
 
 - 🛡️ [Phishing Email Detection Program](https://github.com/MennaMohy/Phishing-Email-Detection-Program) *(C++)*  
   A basic classifier for identifying suspicious email patterns.
