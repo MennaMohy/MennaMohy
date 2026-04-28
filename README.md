@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menna Allah Mohy ELDin
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Software+Engineering+Student;Data+Analyst+%7C+Backend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
 
 🎓 Software Engineering student at FCAI-CU with a strong interest in **Data Science**, **Backend Development (.NET)**, and **Data Analysis**. Passionate about building data-driven and intelligent applications.
 
