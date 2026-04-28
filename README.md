@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menna Allah Mohy ELDin
-![snake gif](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=000000&center=true&width=500&lines=Data+Analyst;Backend+Developer)](https://git.io/typing-svg)
 
 🎓 Software Engineering student at FCAI-CU with a strong interest in **Data Science**, **Backend Development (.NET)**, and **Data Analysis**. Passionate about building data-driven and intelligent applications.
 
@@ -43,14 +43,16 @@ Machine learning-inspired project that classifies suspicious emails based on tex
 
 ### ⚙️ CPU Scheduler Simulator
 C++ simulation of CPU scheduling algorithms to demonstrate process execution and system behavior.
+🔗 https://github.com/MennaMohy/CPU_Schedulers_Simulator
 
 ---
 
 ### 🎮 Memory Matching Game
 Interactive Java game that tests memory skills through card matching logic.
+🔗 https://github.com/MennaMohy/Memory_Matching_Game
 
 ---
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MennaMohy&show_icons=true&theme=tokyonight)
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YourLinkedIn/  
