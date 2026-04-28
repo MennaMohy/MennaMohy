@@ -52,7 +52,7 @@ Interactive Java game that tests memory skills through card matching logic.
 🔗 https://github.com/MennaMohy/Memory_Matching_Game
 
 ---
-![snake gif](https://github.com/YourUsername/MennaMohy/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMohy&layout=compact&theme=tokyonight)
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YourLinkedIn/  
