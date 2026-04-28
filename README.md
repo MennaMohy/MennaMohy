@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menna Allah Mohy ELDin
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![snake gif](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
 
 🎓 Software Engineering student at FCAI-CU with a strong interest in **Data Science**, **Backend Development (.NET)**, and **Data Analysis**. Passionate about building data-driven and intelligent applications.
 
