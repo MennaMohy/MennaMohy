@@ -1,47 +1,56 @@
 # 👋 Hi, I'm Menna Allah Mohy ELDin
 
-🎓 A passionate Software Engineering student with a strong interest in **Data Science**, **Web Development**, and building smart and helpful applications.
+🎓 Software Engineering student at FCAI-CU with a strong interest in **Data Science**, **Backend Development (.NET)**, and **Data Analysis**. Passionate about building data-driven and intelligent applications.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**  
-Python | Java | C++ | JavaScript  
+### 🧠 Programming Languages
+Python | Java | C++ | JavaScript | C# | PHP  
 
-**Web**  
-HTML | CSS | JavaScript | Django  
+### 🌐 Web Development
+HTML | CSS | JavaScript | Laravel | Django  
 
-**Tools & Platforms**  
-Git | GitHub | VS Code
+### 📊 Data & Analytics
+SQL | MySQL | Tableau | SSIS | Data Analysis (EDA)  
+
+### 🛠️ Tools
+Git | GitHub | VS Code | Excel  
 
 ---
 
 ## 📌 Highlighted Projects
 
-- 🕮 [Online Library Website](https://github.com/MennaMohy/OnlineLibraryWebsite)  
-  A full-featured Django-based library system with user login, book browsing, and dark mode.
+### 📊 Grocery Store Data Analysis & Storytelling
+Interactive Tableau project analyzing sales trends, product categories, and customer behavior.  
+🔗 https://public.tableau.com/views/GroceryStoreDataset_17578767474810/Story1  
 
-- 🎮 [Memory Matching Game](https://github.com/MennaMohy/Memory_Matching_Game)*(Java)*  
-  A fun and interactive game built with Java Swing.
+---
 
-- 🧠 [Subtract a Square Game](https://github.com/MennaMohy/Subtract_a_square_game) *(Python)*  
-  A turn-based math puzzle game with smart logic implementation.
+### 📈 Customer Data Analysis Project
+Python-based data analysis project focused on cleaning, EDA, and visualization of customer behavior using real-world datasets.  
+🔗 https://github.com/yourusername/your-repo  
 
-- 📊 [InvestWise App](https://github.com/MennaMohy/InvestWise-App) *(Java)*  
-  A personal finance and investment advisor tool.
+---
 
-- 🛡️ [Phishing Email Detection Program](https://github.com/MennaMohy/Phishing-Email-Detection-Program) *(C++)*  
-  A basic classifier for identifying suspicious email patterns.
+### 🛡️ Phishing Email Detection
+Machine learning-inspired project that classifies suspicious emails based on text patterns and features.  
+🔗 https://github.com/MennaMohy/Phishing-Email-Detection-Program  
 
-- 🔐 [Route Cipher Encoder/Decoder](https://github.com/MennaMohy/Route_cipher) *(C++)*  
-  Encrypt and decrypt messages using the Route Cipher algorithm.
+---
+
+### ⚙️ CPU Scheduler Simulator
+C++ simulation of CPU scheduling algorithms to demonstrate process execution and system behavior.
+
+---
+
+### 🎮 Memory Matching Game
+Interactive Java game that tests memory skills through card matching logic.
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourLinkedIn/)  
-- 📧  Email:mennamohyza@gmail.com
----
-
+- 💼 LinkedIn: https://www.linkedin.com/in/YourLinkedIn/  
+- 📧 Email: mennamohyza@gmail.com  
