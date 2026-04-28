@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menna Allah Mohy ELDin
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=000000&center=true&width=500&lines=Data+Analyst;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=;Data+Analyst+%7C+Backend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 🎓 Software Engineering student at FCAI-CU with a strong interest in **Data Science**, **Backend Development (.NET)**, and **Data Analysis**. Passionate about building data-driven and intelligent applications.
 
@@ -52,7 +52,7 @@ Interactive Java game that tests memory skills through card matching logic.
 🔗 https://github.com/MennaMohy/Memory_Matching_Game
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MennaMohy&show_icons=true&theme=tokyonight)
+![snake gif](https://github.com/YourUsername/MennaMohy/blob/output/github-contribution-grid-snake.svg)
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YourLinkedIn/  
